@@ -1,0 +1,12 @@
+body {
+  overflow-x: hidden;
+}
+/* Navbar */
+
+#menu-toggle:checked + #menu {
+  display: block;
+}
+
+/* End Navbar */
+
+/* Hero */

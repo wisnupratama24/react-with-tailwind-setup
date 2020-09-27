@@ -1,3 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.hero {
+  @apply w-full h-40 px-8;
+}
