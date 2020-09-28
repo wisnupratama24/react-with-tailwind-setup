@@ -53,10 +53,10 @@ export default function Navbar(props) {
         id="menu"
       >
         <nav className="md:border-l-2 md:border-gray-200">
-          <ul className="md:flex items-center justify-between text-base text-gray-700 pt-4 md:pt-0 pl-4">
-            <li className="md:mx-4 my-4">
+          <ul className="md:flex items-center justify-between text-base text-gray-700 pt-2 md:pt-0 pl-4">
+            <li className="md:mx-4 my-3">
               <a
-                className="bg-transparent hover:bg-indigo-500 text-indigo-500 font-medium hover:text-white py-2 px-4 border border-blue-500 hover:border-transparent rounded "
+                className="bg-transparent hover:bg-indigo-500 text-indigo-500 font-medium hover:text-white py-2 px-4 border border-blue-500 hover:border-transparent rounded text-xs md:text-sm"
                 href="/"
               >
                 Masuk
@@ -64,7 +64,7 @@ export default function Navbar(props) {
             </li>
             <li>
               <a
-                className="bg-indigo-500  text-white font-medium py-2 px-4  rounded"
+                className="bg-indigo-500  text-white font-medium py-2 px-4  rounded text-xs md:text-sm"
                 href="/"
               >
                 Daftar

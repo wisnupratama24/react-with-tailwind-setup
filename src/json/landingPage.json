@@ -1,0 +1,61 @@
+{
+  "hero": [
+    {
+      "_id": "asd1293uasdads1",
+      "url": "/images/hero/hero_1.jpg"
+    },
+
+    {
+      "_id": "asd1293uasdads1",
+      "url": "/images/hero/hero_2.jpg"
+    },
+    {
+      "_id": "asd1293uasdads1",
+      "url": "/images/hero/hero_3.jpg"
+    }
+  ],
+  "category": [
+    {
+      "_id": "asd1293uasdads1",
+      "name": "Handphone & Aksesoris",
+      "imageUrl": "/images/category/category_1.jpg"
+    },
+
+    {
+      "_id": "asd1293uasdads1",
+      "name": "Jam Tangan",
+      "imageUrl": "/images/category/category_2.jpg"
+    },
+    {
+      "_id": "asd1293uasdads1",
+      "name": "Sepatu Pria",
+      "imageUrl": "/images/category/category_3.jpg"
+    },
+    {
+      "_id": "asd1293uasdads1",
+      "name": "Laptop & Aksesories",
+      "imageUrl": "/images/category/category_4.jpg"
+    },
+
+    {
+      "_id": "asd1293uasdads1",
+      "name": "Pakaian Wanita",
+      "imageUrl": "/images/category/category_5.jpg"
+    },
+    {
+      "_id": "asd1293uasdads1",
+      "name": "Sepatu Wanita",
+      "imageUrl": "/images/category/category_6.jpg"
+    },
+    {
+      "_id": "asd1293uasdads1",
+      "name": "Pakaian Pria",
+      "imageUrl": "/images/category/category_7.jpg"
+    },
+    {
+      "_id": "asd1293uasdads1",
+      "name": "Tas Wanita",
+      "imageUrl": "/images/category/category_8.png"
+    }
+  ]
+}
