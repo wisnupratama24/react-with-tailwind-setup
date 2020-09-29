@@ -13,7 +13,7 @@ export default function Hero({ data }) {
   };
 
   return (
-    <div className="mt-6 ">
+    <div className="mt-6">
       <AliceCarousel
         buttonsDisabled={true}
         mouseTrackingEnabled

@@ -57,5 +57,241 @@
       "name": "Tas Wanita",
       "imageUrl": "/images/category/category_8.png"
     }
+  ],
+  "product": [
+    {
+      "_id": "asd1293uasdads1",
+      "name": "Redmi Note 9 Pro (6GB+64GB) 64MP Quad Kamera Snapdragon 720G 6.67“ FHD+ GaransiResmi",
+      "price": 3299000,
+      "rating": 4.6,
+      "review": 122,
+      "imageUrl": [
+        {
+          "_id": "asd1293uasdads1",
+          "url": "/images/product/product_1.jpg"
+        }
+      ]
+    },
+    {
+      "_id": "asd1293uasdads1",
+      "name": "Ringke Fusion-X, Xiaomi Mi 10 (10 Pro) / Mi 9T (Mi 9T Pro) / Mi Note 10 (10 Pro / CC9 Pro) [Fusion-X] Hard Case Original Dibuat di Korea",
+      "price": 18500,
+      "rating": 4.8,
+      "review": 125,
+      "imageUrl": [
+        {
+          "_id": "asd1293uasdads1",
+          "url": "/images/product/product_2.jpg"
+        }
+      ]
+    },
+    {
+      "_id": "asd1293uasdads1",
+      "name": "2-in-1 Glass Case for Mi Note 10 (Mi CC9 Pro) Mi Note 10 Pro Screen Protector Tempered Glass Film",
+      "price": 20500,
+      "rating": 4.9,
+      "review": 675,
+      "imageUrl": [
+        {
+          "_id": "asd1293uasdads1",
+          "url": "/images/product/product_3.jpg"
+        }
+      ]
+    },
+    {
+      "_id": "asd1293uasdads1",
+      "name": "XIAOMI MI NOTE 10 PRO 2mm Case Transparant Clear TPU Premium Softcase",
+      "price": 18500,
+      "rating": 4.8,
+      "review": 14,
+      "imageUrl": [
+        {
+          "_id": "asd1293uasdads1",
+          "url": "/images/product/product_4.jpg"
+        }
+      ]
+    },
+    {
+      "_id": "asd1293uasdads1",
+      "name": "Flatshoes Wanita Kode MI 10 Hitam",
+      "price": 32000,
+      "rating": 4.75,
+      "review": 208,
+      "imageUrl": [
+        {
+          "_id": "asd1293uasdads1",
+          "url": "/images/product/product_5.jpg"
+        }
+      ]
+    },
+    {
+      "_id": "asd1293uasdads1",
+      "name": "Terpopuler ! FZ-10 Sepatu sneakers wanita bahan lembut mi Qlt",
+      "price": 310000,
+      "rating": 4.92,
+      "review": 8,
+      "imageUrl": [
+        {
+          "_id": "asd1293uasdads1",
+          "url": "/images/product/product_6.jpg"
+        }
+      ]
+    },
+    {
+      "_id": "asd1293uasdads1",
+      "name": "Xiaomi Mi Notebook Air 13.3 Inch Windows 10 - Silver",
+      "price": 16100200,
+      "rating": 4.92,
+      "review": 120,
+      "imageUrl": [
+        {
+          "_id": "asd1293uasdads1",
+          "url": "/images/product/product_7.jpg"
+        }
+      ]
+    },
+    {
+      "_id": "asd1293uasdads1",
+      "name": "Mi Mouse Wireless No Brand 2.4 GHz Mouse FOR Windows 7 8 10 Macbook",
+      "price": 200500,
+      "rating": 4.5,
+      "review": 10,
+      "imageUrl": [
+        {
+          "_id": "asd1293uasdads1",
+          "url": "/images/product/product_8.jpg"
+        }
+      ]
+    },
+    {
+      "_id": "asd1293uasdads1",
+      "name": "Redmi Note 9 Pro (6GB+64GB) 64MP Quad Kamera Snapdragon 720G 6.67“ FHD+ GaransiResmi",
+      "price": 3299000,
+      "rating": 4.6,
+      "review": 122,
+      "imageUrl": [
+        {
+          "_id": "asd1293uasdads1",
+          "url": "/images/product/product_1.jpg"
+        }
+      ]
+    },
+    {
+      "_id": "asd1293uasdads1",
+      "name": "Ringke Fusion-X, Xiaomi Mi 10 (10 Pro) / Mi 9T (Mi 9T Pro) / Mi Note 10 (10 Pro / CC9 Pro) [Fusion-X] Hard Case Original Dibuat di Korea",
+      "price": 18500,
+      "rating": 4.8,
+      "review": 125,
+      "imageUrl": [
+        {
+          "_id": "asd1293uasdads1",
+          "url": "/images/product/product_2.jpg"
+        }
+      ]
+    },
+    {
+      "_id": "asd1293uasdads1",
+      "name": "2-in-1 Glass Case for Mi Note 10 (Mi CC9 Pro) Mi Note 10 Pro Screen Protector Tempered Glass Film",
+      "price": 20500,
+      "rating": 4.9,
+      "review": 675,
+      "imageUrl": [
+        {
+          "_id": "asd1293uasdads1",
+          "url": "/images/product/product_3.jpg"
+        }
+      ]
+    },
+    {
+      "_id": "asd1293uasdads1",
+      "name": "XIAOMI MI NOTE 10 PRO 2mm Case Transparant Clear TPU Premium Softcase",
+      "price": 18500,
+      "rating": 4.8,
+      "review": 14,
+      "imageUrl": [
+        {
+          "_id": "asd1293uasdads1",
+          "url": "/images/product/product_4.jpg"
+        }
+      ]
+    },
+    {
+      "_id": "asd1293uasdads1",
+      "name": "Flatshoes Wanita Kode MI 10 Hitam",
+      "price": 32000,
+      "rating": 4.75,
+      "review": 208,
+      "imageUrl": [
+        {
+          "_id": "asd1293uasdads1",
+          "url": "/images/product/product_5.jpg"
+        }
+      ]
+    },
+    {
+      "_id": "asd1293uasdads1",
+      "name": "Terpopuler ! FZ-10 Sepatu sneakers wanita bahan lembut mi Qlt",
+      "price": 310000,
+      "rating": 4.92,
+      "review": 8,
+      "imageUrl": [
+        {
+          "_id": "asd1293uasdads1",
+          "url": "/images/product/product_6.jpg"
+        }
+      ]
+    },
+    {
+      "_id": "asd1293uasdads1",
+      "name": "Xiaomi Mi Notebook Air 13.3 Inch Windows 10 - Silver",
+      "price": 16100200,
+      "rating": 4.92,
+      "review": 120,
+      "imageUrl": [
+        {
+          "_id": "asd1293uasdads1",
+          "url": "/images/product/product_7.jpg"
+        }
+      ]
+    },
+    {
+      "_id": "asd1293uasdads1",
+      "name": "Mi Mouse Wireless No Brand 2.4 GHz Mouse FOR Windows 7 8 10 Macbook",
+      "price": 200500,
+      "rating": 4.5,
+      "review": 10,
+      "imageUrl": [
+        {
+          "_id": "asd1293uasdads1",
+          "url": "/images/product/product_8.jpg"
+        }
+      ]
+    },
+    {
+      "_id": "asd1293uasdads1",
+      "name": "2-in-1 Glass Case for Mi Note 10 (Mi CC9 Pro) Mi Note 10 Pro Screen Protector Tempered Glass Film",
+      "price": 20500,
+      "rating": 4.9,
+      "review": 675,
+      "imageUrl": [
+        {
+          "_id": "asd1293uasdads1",
+          "url": "/images/product/product_3.jpg"
+        }
+      ]
+    },
+    {
+      "_id": "asd1293uasdads1",
+      "name": "XIAOMI MI NOTE 10 PRO 2mm Case Transparant Clear TPU Premium Softcase",
+      "price": 18500,
+      "rating": 4.8,
+      "review": 14,
+      "imageUrl": [
+        {
+          "_id": "asd1293uasdads1",
+          "url": "/images/product/product_4.jpg"
+        }
+      ]
+    }
   ]
 }
