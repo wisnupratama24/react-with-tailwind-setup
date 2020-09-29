@@ -1,7 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700&display=swap");
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
 .hero {
   @apply w-full h-40 px-2;
+}
+.footer-ul {
+  @apply list-none font-light;
+}
+
+.footer-li-heading {
+  @apply uppercase font-medium pb-1;
+}
+.footer-li {
+  @apply py-1 text-gray-500;
 }

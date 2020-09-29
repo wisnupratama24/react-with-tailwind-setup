@@ -11,6 +11,9 @@ module.exports = {
       colors: {
         primary: "#fafafa",
       },
+      fontFamily: {
+        body: ["Poppins", "sans-serif"],
+      },
     },
   },
   variants: {},

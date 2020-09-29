@@ -52,9 +52,9 @@ export default function Navbar(props) {
         className="hidden md:flex md:items-center md:w-auto w-full"
         id="menu"
       >
-        <nav className="md:border-l-2 md:border-gray-200">
-          <ul className="md:flex items-center justify-between text-base text-gray-700 pt-2 md:pt-0 pl-4">
-            <li className="md:mx-4 my-3">
+        <nav className="md:border-l-2 lg:border-none md:border-gray-200">
+          <ul className="md:flex items-center justify-between text-base text-gray-700 pt-2 md:pt-0 pl-4 lg:ml-7 lg:pt-2">
+            <li className="md:mx-4  my-3">
               <a
                 className="bg-transparent hover:bg-indigo-500 text-indigo-500 font-medium hover:text-white py-2 px-4 border border-blue-500 hover:border-transparent rounded text-xs md:text-sm"
                 href="/"
