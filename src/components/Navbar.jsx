@@ -1,11 +1,8 @@
-import React, { useEffect } from "react";
+import React from "react";
 import Brand from "parts/Brand";
 import ic_cart from "assets/images/icon/ic_cart.svg";
 
 export default function Navbar(props) {
-  useEffect(() => {
-    document.title = "Landing Page | STADME";
-  }, []);
   return (
     <header className="lg:px-10  pr-4 bg-white flex flex-wrap items-center py-5">
       <div className="flex-1 flex justify-evenly items-center px-0">

@@ -1,15 +1,20 @@
 import React from "react";
 import formatNumber from "utils/formatNumber";
 import Star from "elements/Star";
-export default function Content({ data }) {
-  const length = 40;
+export default function Content({ data, isFilter, length, limit }) {
   return (
     <div className="md:px-10 mx-0 py-10">
-      <div className="grid xl:grid-cols-6 lg:grid-cols-4 md:grid-cols-3 grid-cols-2">
-        {data.map((item, index) => {
+      <div
+        className={`grid ${
+          isFilter === true
+            ? "xl-grid-cols-5 lg:grid-cols-5"
+            : " xl:grid-cols-6 lg:grid-cols-4 "
+        } md:grid-cols-3  grid-cols-2 `}
+      >
+        {data.slice(0, limit).map((item, index) => {
           return (
             <a href="/" key={`category-${index}`}>
-              <div className="flex justify-center flex-col items-center m-2 border border-gray-300 bg-white shadow-lg">
+              <div className="flex justify-center flex-col items-center m-2 border border-gray-300 bg-white shadow-lg rounded-lg">
                 <img
                   className="md:h-64 h-40 md:w-10/12 w-11/12 mt-4"
                   src={item.imageUrl[0].url}

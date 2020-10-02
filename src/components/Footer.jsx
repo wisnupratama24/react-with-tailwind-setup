@@ -3,7 +3,7 @@ import Brand from "parts/Brand";
 
 export default function Footer(props) {
   return (
-    <footer className="lg:px-16 bg-white  py-10">
+    <div className="lg:px-16 bg-white py-10">
       <div className="grid xl:grid-cols-5 md:grid-cols-4 grid-cols-1 px-5 ">
         <div className="pr-10">
           <Brand />
@@ -45,6 +45,6 @@ export default function Footer(props) {
         Copyright 2019 • All rights reserved •
         <span className="font-bold"> STADME </span>
       </div>
-    </footer>
+    </div>
   );
 }

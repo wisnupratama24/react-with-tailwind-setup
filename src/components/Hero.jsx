@@ -27,7 +27,7 @@ export default function Hero({ data }) {
             <img
               key={`image-hero-${index}`}
               src={item.url}
-              className="hero md:px-10 md:h-64"
+              className="hero md:px-10 md:h-64 "
               alt={`hero-${index}`}
             />
           );
