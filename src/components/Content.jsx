@@ -1,15 +1,24 @@
 import React from "react";
 import formatNumber from "utils/formatNumber";
 import Star from "elements/Star";
-export default function Content({ data, isFilter, length, limit }) {
+export default function Content({ data, length, limit, type }) {
+  const classFilter = "xl-grid-cols-5 lg:grid-cols-5";
+  const classLandingPage = "xl:grid-cols-6 lg:grid-cols-4";
+  const classDetailPage =
+    "xl:grid-cols-4 lg:grid-cols-4 md:w-10/12 w-full mx-auto";
+
   return (
-    <div className="md:px-10 mx-0 py-10">
+    <div
+      className={`${
+        type === "DetailPage" ? "md:px-0" : "md:px-10 py-10"
+      } mx-0 `}
+    >
       <div
-        className={`grid ${
-          isFilter === true
-            ? "xl-grid-cols-5 lg:grid-cols-5"
-            : " xl:grid-cols-6 lg:grid-cols-4 "
-        } md:grid-cols-3  grid-cols-2 `}
+        className={`grid ${type === "Filter" ? classFilter : ""} ${
+          type === "LandingPage" ? classLandingPage : ""
+        } ${
+          type === "DetailPage" ? classDetailPage : ""
+        }   md:grid-cols-3 grid-cols-2 `}
       >
         {data.slice(0, limit).map((item, index) => {
           return (

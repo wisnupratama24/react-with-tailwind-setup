@@ -17,7 +17,7 @@ export default class FilterPage extends Component {
           <div className="content col-span-5">
             <Content
               data={landingPage.product}
-              isFilter={true}
+              type="Filter"
               length={40}
               limit={15}
             />

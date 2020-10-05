@@ -12,7 +12,12 @@ export default function LandingPage() {
       <Navbar />
       <Hero data={landingPage.hero} />
       <Category data={landingPage.category} />
-      <Content data={landingPage.product} length={40} limit={18} />
+      <Content
+        data={landingPage.product}
+        length={40}
+        limit={18}
+        type="LandingPage"
+      />
       <Footer />
     </>
   );
